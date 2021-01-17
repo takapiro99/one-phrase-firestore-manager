@@ -1,8 +1,9 @@
+import Top from "./Components/Top";
 
 function App() {
   return (
     <div className="App">
-      あ
+      <Top />
     </div>
   );
 }
